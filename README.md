@@ -1,2 +1,2 @@
 # small_c_projects
-small c programming projects for learn and practice on c
+small_c_projects is a simple repo for learn and practice on c programming language
